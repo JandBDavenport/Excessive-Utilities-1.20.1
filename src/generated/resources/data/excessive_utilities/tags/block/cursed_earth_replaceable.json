@@ -1,8 +1,0 @@
-{
-  "remove": [
-    "excessive_utilities:cursed_earth"
-  ],
-  "values": [
-    "#minecraft:dirt"
-  ]
-}

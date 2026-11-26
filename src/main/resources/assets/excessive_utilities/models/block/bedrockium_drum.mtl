@@ -1,9 +1,0 @@
-newmtl center
-neoforge_TintIndex 1
-map_Kd excessive_utilities:block/drum/center_colored
-
-newmtl stripe
-map_Kd excessive_utilities:block/drum/bedrockium/center
-
-newmtl top
-map_Kd excessive_utilities:block/drum/bedrockium/top

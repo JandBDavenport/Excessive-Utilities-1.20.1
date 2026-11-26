@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_top",
-  "textures": {
-    "side": "excessive_utilities:block/machine_block/side",
-    "top": "excessive_utilities:block/machine_block/top"
-  }
-}

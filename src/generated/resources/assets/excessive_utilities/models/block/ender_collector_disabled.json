@@ -1,7 +1,0 @@
-{
-  "parent": "excessive_utilities:block/ender_collector",
-  "textures": {
-    "antenna_top": "excessive_utilities:block/ender_collector/antenna_top_off",
-    "side": "excessive_utilities:block/ender_collector/side_off"
-  }
-}
