@@ -1,4 +1,4 @@
-package dev.aaronhowser.mods.excessive_utilities;
+package com.jandbdavenport.excessive_utilities;
 
 import net.minecraftforge.fml.common.Mod;
 import org.slf4j.Logger;
@@ -11,6 +11,6 @@ public class ExcessiveUtilities {
     private static final Logger LOGGER = LoggerFactory.getLogger(ExcessiveUtilities.class);
 
     public ExcessiveUtilities() {
-        LOGGER.info("Excessive Utilities 1.20.1 port loaded");
+        LOGGER.info("Excessive Utilities loaded");
     }
 }
