@@ -11,9 +11,12 @@ public class ModItems {
 	public static final DeferredRegister<Item> ITEMS =
 			DeferredRegister.create(ForgeRegistries.ITEMS, ExcessiveUtilities.MOD_ID);
 
-public static final RegistryObject<Item> MAGICAL_WOOD_ITEM =
+	public static final RegistryObject<Item> MAGICAL_WOOD_ITEM =
 			ITEMS.register("magical_wood", () -> new MagicalWoodBlockItem(new Item.Properties()));
 
-public static final RegistryObject<Item> ENDER_INFUSED_OBSIDIAN_ITEM =
+	public static final RegistryObject<Item> ENDER_CORE_ITEM =
+			ITEMS.register("ender_core", () -> new EnderCoreBlockItem(new Item.Properties()));
+
+	public static final RegistryObject<Item> ENDER_INFUSED_OBSIDIAN_ITEM =
 			ITEMS.register("ender_infused_obsidian", () -> new BlockItem(ModBlocks.ENDER_INFUSED_OBSIDIAN.get(), new Item.Properties()));
 }

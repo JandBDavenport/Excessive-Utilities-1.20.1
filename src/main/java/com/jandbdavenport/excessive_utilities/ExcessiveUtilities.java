@@ -15,5 +15,6 @@ public class ExcessiveUtilities {
         LOGGER.info("Excessive Utilities loaded");
 		ModBlocks.BLOCKS.register(context.getModEventBus());
 		ModItems.ITEMS.register(context.getModEventBus());
+		ModCreativeTabs.TABS.register(context.getModEventBus());
     }
 }

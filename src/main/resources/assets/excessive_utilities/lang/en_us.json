@@ -2,5 +2,9 @@
   "block.excessive_utilities.magical_wood": "Magical Wood",
 	"tooltip.excessive_utilities.magical_wood_1": "Boosts max level of enchanting",
 	"tooltip.excessive_utilities.magical_wood_2": "tables by 2.5 levels",
-	"block.excessive_utilities.ender_infused_obsidian": "Ender-Infused Obsidian"
+	"tooltip.excessive_utilities.ender_core_1": "Boosts max level of enchanting",
+	"tooltip.excessive_utilities.ender_core_2": "tables by 5 levels",
+	"block.excessive_utilities.ender_infused_obsidian": "Ender-Infused Obsidian",
+	"itemGroup.excessive_utilities": "Excessive Utilities",
+	"block.excessive_utilities.ender_core": "Ender Core"
 }
